@@ -43,3 +43,17 @@ ratings, genres and release years.
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## Dashboard
+
+Built using **Power BI** on the cleaned Netflix dataset.
+
+### Preview
+![Dashboard Preview](Netflix_Dashboard.png)
+
+### File
+- `Dashboard.pbix` — Power BI dashboard file
+
+> To view the dashboard, download the `.pbix` file and
+> open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop)
+> which is available for free.
